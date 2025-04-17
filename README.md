@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello 👋
+
+
+I’m ryelle, a web developer based in Philadelphia, working remotely. I work on WordPress, specifically the “meta” side — WordPress.org, WordCamp.org, and other tools that help contributors contribute.
 
 <!--
 **ryelle/ryelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
