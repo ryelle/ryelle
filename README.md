@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I’m ryelle, a web developer based in Philadelphia, working remotely. I work on WordPress, specifically the “meta” side — WordPress.org, WordCamp.org, and other tools that help contributors contribute.
+I’m ryelle, a software engineer based in Philadelphia, working remotely. I work on WordPress, specifically the “meta” side — WordPress.org, WordCamp.org, and other tools that help contributors contribute.
 
 Some code I'm proud of:
 
@@ -9,17 +9,4 @@ Some code I'm proud of:
 - [grab-screenshots](https://github.com/ryelle/grab-screenshots) uses puppeteer and @wordpress/e2e-test-utils to automatically take screenshots, possibly after simulated user interactions. See [Taking 72 Screenshots in 5 Minutes](https://ryelle.codes/2020/12/taking-72-screenshots-in-5-minutes/) for my use case and some examples. I used a similar approach to get screenshots to [help review changed pages in WordPress.org](https://github.com/WordPress/wporg-main-2022/pull/467).
 - [css-audit](https://github.com/WordPress/css-audit) is a tool for auditing CSS for poor practices (for example, use of `!important`, or overly-long selectors). This tool parses each CSS file and creates an AST with PostCSS, which the audits traverse to pull out data.
 
-<!--
-**ryelle/ryelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking for my next role, [get in touch on LinkedIn](https://www.linkedin.com/in/kelly-choyce-dwan/) if you want to work together!
